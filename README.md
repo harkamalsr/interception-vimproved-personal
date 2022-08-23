@@ -1,3 +1,5 @@
+# For anyone reading, this is a fork of the original but with everything except the vim homekeys commented out
+
 # Interception plugin for vimproved input
 
 My hideous (but working and performant) C++ code to remap the keys on any input device that emits keys.
